@@ -18,3 +18,4 @@ public class task2{
         System.out.println(count);
         sc.close();
     }
+}
