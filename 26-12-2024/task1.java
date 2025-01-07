@@ -1,6 +1,8 @@
 // leetcode : 2125
 // Time complexity : O(n)
 // Space complexity : O(1)
+import java.io.*;
+import java.util.ArrayList;
 
 class task1{
     public int numberOfBeams(String[] bank) {

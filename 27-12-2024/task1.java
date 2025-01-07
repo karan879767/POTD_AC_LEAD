@@ -1,6 +1,8 @@
 // Leetcode : 202
 // Time complexity : O(n)
 // Space complexity : O(1)
+import java.util.HashSet;
+import java.util.Set;
 
 class task1{
     public int SquareNumber(int n){
